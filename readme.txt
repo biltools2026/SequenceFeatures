@@ -1,5 +1,6 @@
-
 Protein metal ion binding site prediction, including zinc ions, calcium ions, magnesium ions, and copper ions-binding residues.
+
+It does not require external dependency packages, as the software package includes all the components needed for operation. It can run directly from the command line on Windows systems.
 
 Install
 You should install Perl before you running the program.
