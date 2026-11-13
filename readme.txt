@@ -1,4 +1,4 @@
-Protein metal ion binding site prediction, including zinc ions, calcium ions, magnesium ions, and copper ions-binding residues.
+Protein metal ion binding site prediction, including Zinc(Zn), Calcium(Ca), Magnesium(Mg), Copper(Cu), Sodium(Na), Manganese(Mn), Ferrous(Fe) and Potassium(K) ion-binding residues.
 
 It does not require external dependency packages, as the software package includes all the components needed for operation. It can run directly from the command line on Windows systems.
 
@@ -12,7 +12,7 @@ perl seqrun.pl -seq E:\sequences\seq.fasta
 
 The output file: report.txt.
 
-Output is as below:
+Some parts of prediction output are as below:
 Potential zinc-binding residues are as below. 
 Meanwhile, probabilities for zinc-binding site and non-zinc-binding are also listed.
 77H 0.935000 0.065000
